@@ -25,15 +25,15 @@ This project is a 2D autonomous robot navigation system designed to navigate thr
 #### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SELVA-G-2003/robot-navigation.git
+   git clone https://github.com/SELVA-G-2003/Autonomous-Robot-Navigation.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd robot-navigation
+   cd Autonomus-Robot-Navigation
    ```
 3. Run the main script to start the simulation:
    ```bash
-   python main.py
+   python Robot_Simulation.py
    ```
 
 ### Usage
